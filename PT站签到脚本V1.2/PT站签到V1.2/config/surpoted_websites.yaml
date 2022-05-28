@@ -1,0 +1,110 @@
+hdzone:
+  Host: hdzone.me
+  登陆界面页:
+    地址: http://hdzone.me/login.php
+    访问方式: get
+  登陆操作页:
+    地址: http://hdzone.me/takelogin.php
+    访问方式: post
+    参数:
+      username: ''
+      password: ''
+      imagestring: ''
+      imagehash: ''
+  首页:
+    地址: http://hdzone.me/index.php
+    访问方式: get
+  签到页:
+    地址: http://hdzone.me/attendance.php
+    访问方式: get
+pthome:
+  Host: pthome.net
+  登陆界面页:
+    地址: https://pthome.net/login.php
+    访问方式: get
+  登陆操作页:
+    地址: https://pthome.net/takelogin.php
+    访问方式: post
+    参数:
+      username: ''
+      password: ''
+      imagestring: ''
+      imagehash: ''
+      scode: ''
+  首页:
+    地址: https://pthome.net/index.php
+    访问方式: get
+  签到页:
+    地址: https://pthome.net/attendance.php
+    访问方式: get
+hdarea:
+  Host: www.hdarea.co
+  登陆界面页:
+    地址: http://www.hdarea.co/login.php
+    访问方式: get
+  登陆操作页:
+    地址: http://www.hdarea.co/takelogin.php
+    访问方式: post
+    参数:
+      username: ''
+      password: ''
+  首页:
+    地址: https://www.hdarea.co/index.php
+    访问方式: get
+  签到页:
+    地址: https://www.hdarea.co/sign_in.php
+    访问方式: post
+    参数:
+      action: sign_in
+hdatmos:
+  Host: hdatmos.club
+  登陆界面页:
+    地址: http://hdatmos.club/login.php
+    访问方式: get
+  登陆操作页:
+    地址: http://hdatmos.club/takelogin.php
+    访问方式: post
+    参数:
+      username: ''
+      password: ''
+      imagestring: ''
+      imagehash: ''
+      two_step_code: ''
+      secret: ''
+  首页:
+    地址: https://hdatmos.club/index.php
+    访问方式: get
+  签到页:
+    地址: https://hdatmos.club/attendance.php
+    访问方式: get
+pttime:
+  Host: www.pttime.org
+  登陆界面页:
+    地址: http://www.pttime.org/login.php
+    访问方式: get
+  登陆操作页:
+    地址: http://www.pttime.org/takelogin.php
+    访问方式: post
+    参数:
+      username: ''
+      password: ''
+  首页:
+    地址: https://www.pttime.org/index.php
+    访问方式: get
+  签到页:
+    地址: https://www.pttime.org/attendance.php
+    访问方式: get
+m-team:
+  Host: kp.m-team.cc/
+  登陆界面页:
+    地址: https://kp.m-team.cc/login.php
+    访问方式: get
+  登陆操作页:
+    地址: https://kp.m-team.cc/takelogin.php
+    访问方式: post
+    参数:
+      username: ''
+      password: ''
+  首页:
+    地址: https://kp.m-team.cc/index.php
+    访问方式: get

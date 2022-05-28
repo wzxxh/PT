@@ -1,0 +1,11 @@
+requests
+
+brotli
+
+apscheduler
+
+BeautifulSoup4
+
+pyyaml
+
+lxml
